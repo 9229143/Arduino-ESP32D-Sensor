@@ -1,2 +1,4 @@
-# Arduino-connet-SHTC3-and-Capacitive-Soil-Moisture-Sensor
-Arduino connet SHTC3 and Capacitive Soil Moisture Sensor
+# Arduino-ESP32D-Sensor
+ESP32D 
+SHTC3
+Capacitive Soil Moisture Sensor
